@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Full-size copies handed to apps that sent no EXTRA_OUTPUT -->
+    <cache-path name="shared" path="shared/" />
+    <!-- Output target used by the in-app self-test only -->
+    <cache-path name="selftest" path="selftest/" />
+</paths>
